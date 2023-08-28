@@ -58,7 +58,7 @@ class Quiz {
         const element = document.createElement('div');
         element.classList.add('form');
         element.innerHTML = `
-        <form action="#" class="form">
+        <form action="#">
             <span>Вопрос</span>
             <p>${this.question}</p>
             <ul>

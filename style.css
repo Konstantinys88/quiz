@@ -9,15 +9,7 @@
     /* justify-content: center; */
     flex-direction: column;
     align-items: center;
-
     top: 100px;
 
 }
 
-.form1 {
-    display: block;
-}
-
-.form2 {
-    display: none;
-}
