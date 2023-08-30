@@ -13,3 +13,36 @@
 
 }
 
+.form {
+    border: 2px solid black;
+    padding: 25px;
+    border-radius: 10px;
+
+    margin-bottom: 15px;
+
+    width: 350px;
+}
+
+span {
+    display: block;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin: 5px 0;
+    background-color: rgb(197, 180, 161);
+    border-radius: 5px;
+}
+
+
+
