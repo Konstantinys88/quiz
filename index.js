@@ -129,7 +129,7 @@ function renderQuiz() {
             console.log('Правилильных ответов ' + correctAnswers)
             alert('Ответ верный');
         } else {
-            alert('Ответ не вернвый');
+            alert('Ответ не верный');
         }
 
         if ((count) === arr.length) {
